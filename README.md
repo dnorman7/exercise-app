@@ -41,7 +41,7 @@ SECRET=<secret string goes here>
 ![Wireframe](img/ERD.png)
 
 ## Getting Started
-[Click Here]() to see the deplyed app!
+[Click Here](https://dnorman7-project-3-frontend.herokuapp.com/) to see the deplyed app!
 
 ## Future Enhancements
 - Add an exercise page
